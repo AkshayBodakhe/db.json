@@ -1,0 +1,166 @@
+export const CATEGORIES = [
+    {
+        id : 1,
+        name : 'Basics',
+        Chapters : [
+            {
+                id : 1,
+                topic : 'Helping verbs',
+                details : [
+                    "Present Tense : am , is , are , have , has",
+                    "Past Tense : was , were , had",
+                    "Future Tense : will be , will have"
+                ]
+            },
+            {
+                id : 2,
+                topic : 'Main verbs',
+                // details : [
+                //     `V1                                  v2                                  v3`,
+                //     `Come                           Came                             Come`,
+                //     `Go                               Went                             Gone`,
+                //     `Take                            Took                            Taken`,
+                // ]
+            }
+        ]
+    },
+    {
+        id : 2,
+        name : 'Parts of Speech',
+        Chapters : [
+            {
+                id : 1,
+               topic : 'Nouns'
+            },
+            {
+                id : 2,
+                topic : 'Pronouns'
+            },
+            {
+                id : 3,
+                topic : 'Adverbs'
+            },
+            {
+                id : 4,
+                topic : 'Adjectives'
+            },
+            {
+                id : 5,
+                topic : 'Conjunctions'
+            },
+            {
+                id : 6,
+                topic : 'Prepositions'
+            },
+            {
+                id : 7,
+                topic : 'Verbs'
+            },
+            {
+                id : 8,
+                topic : 'Interjections'
+            },
+            {
+                id : 9,
+                topic : 'Articles'
+            },
+
+        ]
+    },
+    {
+        id : 3,
+        name : 'Tenses',
+        Chapters : [
+            {
+               id : 1,
+               topic : 'Simple Present Tense',
+               details : [
+                "definition : Simple present tense is used to express general statements and describe the usual and habitual acts. It shows the routine work that we perform daily, regularly or always.",
+                "formula : Subject + Base form of verb (+ s/es for third person) + object",
+                "He/She/It + base form(V1)(s/es)",
+                "They/We + base form(V1)",
+                "Examples : ",
+                "1 : He wakes up early in the morning.",
+                "2 : We work in the office from 8 o’clock to 3 o’clock.",
+                "3 : She loves cooking food."
+
+               ]
+            
+            },
+            {
+                id : 2,
+                topic : 'Present Continuous Tense'
+            },
+            {
+                id : 3,
+                topic : 'Present Perfect Tense'
+            },
+            {
+                id : 4,
+                topic : 'Present Perfect Continuous Tense'
+            },
+            {
+                id : 5,
+                topic : 'Simple Past Tense'
+            },
+            {
+                id : 6,
+                topic : 'Past Continuous Tense'
+            },
+            {
+                id : 7,
+                topic : 'Past Perfect Tense'
+            },
+            {
+                id : 8,
+                topic : 'Past Perfect Continuous Tense'
+            },
+            {
+                id : 9,
+                topic : 'Simple Future Tense'
+            },
+            {
+                id : 10,
+                topic : 'Future Continuous Tense'
+            },
+            {
+                id : 11,
+                topic : 'Future Perfect Tense'
+            },
+            {
+                id : 9,
+                topic : 'Future Perfect Continuous Tense'
+            },
+
+        ]
+
+    },
+    {
+        id : 4,
+        name : 'Vocabulary'
+    },
+    {
+        id : 5,
+        name : 'Voices'
+    },
+    {
+        id : 6,
+        name : 'Verbal Questions'
+    },
+    {
+        id : 7,
+        name : 'Modal Auxilliary'
+    },
+    {
+        id : 8,
+        name : 'WH Qustions'
+    },
+    {
+        id : 9,
+        name : 'Phrasal Verbs'
+    },
+    {
+        id : 10,
+        name : 'Idioms'
+    }
+]
